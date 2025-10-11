@@ -1,6 +1,6 @@
 # Ruby Language
 
-### Reference : `https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby`
+### Reference : `theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby`
 
 ***
 
