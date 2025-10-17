@@ -130,5 +130,3 @@ puts "\nThe bang Method"
 friends = ['Sharon', 'Leo', 'Leila', 'Brian', 'Arun']
 friends.map! { |friend| friend.upcase }     #=> `['SHARON', 'LEO', 'LEILA', 'BRIAN', 'ARUN']`
 puts friends        #=> `['SHARON', 'LEO', 'LEILA', 'BRIAN', 'ARUN']`
-
-
